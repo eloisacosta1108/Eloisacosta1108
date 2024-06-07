@@ -1,16 +1,16 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 👋
 
-<!--
-**eloisacosta1108/Eloisacosta1108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é eloisa vitoria costa
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para a minha organizaçao e compartilhamentos dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### voce entrar em contato comigo 📧
+
+ 00001087390667sp@al.educacao.sp.gov.br
+ 
+ @eloisacostta_
+
+
+ ![image](https://github.com/eloisacosta1108/Eloisacosta1108/assets/170687548/c2533637-2bf7-449c-a101-887ddf98a316)
